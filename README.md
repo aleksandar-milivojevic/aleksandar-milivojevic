@@ -29,5 +29,5 @@
 ## 🔗 Connect with me  
 - 💼 [Portfolio](www.aleksandar-milivojevic.com)  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/aleksandar-milivojevic/)  
-- 💻 [GitHub](https://github.com/aleksandarsale96)  
+- 💻 [GitHub](https://github.com/aleksandar-milivojevic)  
 - 📧 amilivojevic185@gmail.com  
